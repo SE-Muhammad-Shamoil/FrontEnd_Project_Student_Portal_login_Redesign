@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color:aqua;
+}
+
+.container1
+{
+    background-color:white;
+    margin-top: 5%;
+}
+
+.container2
+{
+    background-color: white;
+}
+
+.title
+{
+    background-color:blue ;
+    color: white;
+}
+
+.input
+{
+    margin: 1%;
+}
+
