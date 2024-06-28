@@ -3,23 +3,33 @@ body{
     background-color:aqua;
 }
 
-.container1
+.container1 
 {
     background-color:white;
-    margin-top: 5%;
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 .container2
 {
     background-color: white;
+    border-radius: 10px;
 }
 
-
+.container1 , .container2
+{ 
+    align-self: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 
 .title
 {
     background-color:blue ;
     color: white;
+    margin-top: 0px;
+    padding: 6px;
+    font-size: 20px;
 }
 
 .input
